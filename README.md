@@ -22,23 +22,24 @@ https://wwawz.lanzouu.com/i2Xr84d5sfwd
 <img width="543" height="288" alt="image" src="https://github.com/user-attachments/assets/07242be2-d3c4-49d2-99de-1260eb352d4b" />
 
 ### 工具使用教程【必看】
-https://my.feishu.cn/wiki/JNs7wuoRHi1LnRkkspScHIM3nce?from=from_copylink
+
+https://my.feishu.cn/wiki/Ejf8wNuIOi9YURkx2dccp91XnKb?from=from_copylink
 ### 如何安装使用？
 今天就教大家一个无需安装额外软件、支持Windows和Macos系统 相对简单的方法
 
-<img width="415" height="649" alt="image" src="https://github.com/user-attachments/assets/92a660c5-133d-4a84-a831-a7ccb27604f5" />
+
+<img width="395" height="625" alt="image" src="https://github.com/user-attachments/assets/447c9fc0-3d08-487c-b734-2be600f20817" />
+
 
 ### 工具类型
 - 浏览器插件（支持Windows电脑+Mac电脑）
 - 【安装在谷歌浏览器或者Edge浏览器】
 
 ### 工具功能
-- 1.常规模式：按深沪京 / 港股 / 基金 / 债券筛选，支持板块（深市、创业板、科创板等）、公告类型（年报、半年报、董事会等）、行业、日期范围、关键词、单只股票等多维组合查询。
-- 2.细分模式：按各板块「最新公告」快速浏览，对应官网最新公告页，适合按市场板块批量抓取。
-- 3.搜索模式：输入关键词（如「年报」「公司名」），支持标题搜索或全文搜索，可按板块、日期范围过滤。
-- 4.指定采集：搜索并选定一家公司后，按「最新公告 / 定期报告 / 调研」分类采集，文件自动保存到以公司名命名的子文件夹。
-- 5.支持「下载本页」「下载已选」「下载全部」三种方式；「下载全部」会按当前筛选条件自动翻页，可覆盖全部查询结果，下载过程中可取消。提供进度条、失败重试列表，失败项可一键重试。
-
+- 1.多场景采集：支持关注流、热帖、博主主页、个股讨论四种模式，可按分组、排序、页数或截止日期控制采集范围。
+- 2.内容抓取完整：可采集作者、发布时间、正文、图片、话题、转发引用论；可选「详情【暂时不支持评论采集】」补全，以及「专栏/引用长文逐篇打开」补全长文正文。
+- 3.多格式导出：支持导出为 JSON、CSV、TXT、HTML、PDF，并可按采集顺序或发布时间排序。
+- 4.侧边栏操作：在雪球页面打开侧栏即可开始/停止采集、查看日志、清空数据、导出当前结果。
 ### 准备工作
 
 - 一台 Windows 或 Mac 电脑

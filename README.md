@@ -7,14 +7,15 @@
 -   永久存档：不受平台存储期限限制，想存多久存多久
 -   离线学习：在没有网络的环境（比如地铁、飞机上）也能随时观看
 
-<img width="410" height="338" alt="image" src="https://github.com/user-attachments/assets/e4ed05e2-3edb-4f84-bc87-f044e97d8d83" />
+<img width="395" height="625" alt="image" src="https://github.com/user-attachments/assets/78a2fb4f-d42a-4e74-9c9e-bd1a4e6b8fbf" />
+
 
 
 ### 工具下载地址
-巨潮公告年报批量下载助手-v1.0.6 
+雪球帖子采集助手 v2.2.3 
 
-https://wwawz.lanzouu.com/iH7Pn4d5sfxe
-密码:3ti0
+https://wwawz.lanzouu.com/i2Xr84d5sfwd
+密码:cebh
 
 工具持续更新【投稿】 可以关注一下公众号：鸭头工具
 
